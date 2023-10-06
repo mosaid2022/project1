@@ -195,7 +195,7 @@ h2 {
   float: left;
   width: 30%;
   height: 350px;
-  background-color:#7AB5B6;
+  /* background-color:#7AB5B6; */
   border: 1px solid white;
   text-align: center;
   padding: 10px 14px;
@@ -270,7 +270,7 @@ h2 {
 }
 
 .camera-p1 {
-  color: rgb(46, 40, 40);
+  color:white;
 }
 
 .service-info-title {
@@ -1698,7 +1698,7 @@ h2 {
 
 .pricing {
   overflow: auto;
-  background-color: #D3FBD8
+  background-color:gainsboro
 }
 
 .pricing-item {
@@ -1756,7 +1756,7 @@ h2 {
 }
 
 .pricing-list li {
-  color: #999;
+  color: black;
   line-height: 1.8;
 }
 
@@ -1851,7 +1851,7 @@ h2 {
 }
 
 .pricing-list2 li {
-  color: #999;
+  color:black;
   line-height: 1.8;
 }
 
@@ -1954,6 +1954,7 @@ h2 {
   position: relative;
   margin-top: 40px;
   margin-left: 30px;
+  background-color: gainsboro;
 }
 
 .wel-item-title {
@@ -2032,6 +2033,7 @@ h2 {
   position: relative;
   margin-top: 40px;
   margin-left: 30px;
+  background-color: gainsboro;
 }
 
 .wel-item-title2 {
@@ -2107,7 +2109,7 @@ h2 {
   position: relative;
   margin-top: 40px;
   margin-left: 30px;
-
+background-color: gainsboro;
 }
 
 .wel-item-title3 {
